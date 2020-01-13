@@ -1,9 +1,0 @@
-C:\Users\Angga\source\repos\loginScreen\loginScreen\bin\Debug\loginScreen.exe.config
-C:\Users\Angga\source\repos\loginScreen\loginScreen\bin\Debug\loginScreen.exe
-C:\Users\Angga\source\repos\loginScreen\loginScreen\bin\Debug\loginScreen.pdb
-C:\Users\Angga\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.csprojAssemblyReference.cache
-C:\Users\Angga\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.Properties.Resources.resources
-C:\Users\Angga\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.GenerateResource.cache
-C:\Users\Angga\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.exe
-C:\Users\Angga\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.pdb
-C:\Users\Angga\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.Login.resources
